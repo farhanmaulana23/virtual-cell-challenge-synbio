@@ -1,7 +1,7 @@
 ﻿# Virtual Cell Challenge
-## Progres - 28 Juni 2025
+## Progress - 28 Juni 2025 (Environment prep & EDA)
 
-### simple EDA
+### Simple EDA
 | Metrics | Nilai |
 |--------|-------|
 | Jumlah sel (training) | **221 273** |
@@ -11,7 +11,7 @@
 > Plot violin nunjukkin distribusi total UMI per sel (`n_counts`) & jumlah gen terdeteksi (`n_genes`) buat sampel random 10k sel.  
 > Mayoritas sel ada di kisaran **25–40 k UMI counts** dan **8–9 k gen**, dengan bbrp sel berkualitas rendah di ujung distribusi.
 
-## Rangkuman submission 1 (zero-shot, exploratory) 29 Juni 2025
+## Progress - 29 Juni 2025 (Zero Shot Model & Submission Pipeline)
 
 ### Strategi
 Pake cell-mean doang
