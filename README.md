@@ -6,7 +6,7 @@
 |--------|-------|
 | Jumlah sel (training) | **221 273** |
 | Jumlah gen (training) | **18 080** |
-| Sel yang dipakai untuk QC violin | **10 000** |
+| Sel yang dipakai buat QC violin | **10 000** |
 
-> Plot di atas menampilkan distribusi total UMI per sel (`n_counts`) dan jumlah gen terdeteksi (`n_genes`) untuk sampel acak 10 k sel.  
-> Mayoritas sel ada di kisaran **25–40 k counts** dan **8–9 k gen**, dengan bbrp sel berkualitas rendah di ekor distribusi.
+> Plot violin nunjukkin distribusi total UMI per sel (`n_counts`) & jumlah gen terdeteksi (`n_genes`) buat sampel random 10k sel.  
+> Mayoritas sel ada di kisaran **25–40 k UMI counts** dan **8–9 k gen**, dengan bbrp sel berkualitas rendah di ujung distribusi.
